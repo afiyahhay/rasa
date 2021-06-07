@@ -1,4 +1,4 @@
-## Laporan akhir projek
+## Laporan Akhir Projek
 - Nama sistem, Paralel, Kelompok, Nama Asisten Praktikum
 * Nama sistem: RASA (Reservasi Restoran)
 * Paralel: 3
